@@ -1,0 +1,41 @@
+_repo: Spitzweg-Reime-und-Bilder_53232
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Preetorius, Emil
+    birthdate: 1883
+    deathdate: 1973
+    gutenberg_agent_id: '47280'
+    url: http://www.gutenberg.org/2009/agents/47280
+creator:
+  author:
+    agent_name: Spitzweg, Karl
+    alias: Spitzweg, Carl
+    birthdate: 1808
+    deathdate: 1885
+    gutenberg_agent_id: '47278'
+    url: http://www.gutenberg.org/2009/agents/47278
+  editor:
+    agent_name: Uhde-Bernays, Hermann
+    alias: Uhde, Hermann
+    birthdate: 1873
+    deathdate: 1965
+    gutenberg_agent_id: '47279'
+    url: http://www.gutenberg.org/2009/agents/47279
+description: ''
+gutenberg_issued: '2016-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53232'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcc 'N'
+- !lcsh 'Spitzweg, Karl, 1808-1885'
+- !lcsh 'German poetry -- 19th century'
+- GITenberg
+title: Spitzweg, Reime und Bilder
+url: http://www.gutenberg.org/ebooks/53232

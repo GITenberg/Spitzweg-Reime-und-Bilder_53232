@@ -1,5 +1,5 @@
 _repo: Spitzweg-Reime-und-Bilder_53232
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Preetorius, Emil
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1973
     gutenberg_agent_id: '47280'
     url: http://www.gutenberg.org/2009/agents/47280
+covers:
+- cover_type: archival
+  image_path: 53232-h/images/cover.jpg
 creator:
   author:
     agent_name: Spitzweg, Karl
@@ -23,6 +26,8 @@ creator:
     gutenberg_agent_id: '47279'
     url: http://www.gutenberg.org/2009/agents/47279
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53232#Spitzweg-Reime-und-Bilder
 gutenberg_issued: '2016-10-08'
 gutenberg_type: Text
 identifiers:
